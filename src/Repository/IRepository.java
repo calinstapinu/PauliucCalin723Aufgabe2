@@ -1,4 +1,4 @@
-package Aufgabe2.Repository;
+package Repository;
 
 import java.util.List;
 
